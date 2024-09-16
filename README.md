@@ -19,7 +19,6 @@ To run this project in a local environment:
 * Change the current working directory to the location where you want the cloned directory.
 * Clone the repository:
 $ git clone https://github.com/siddhi0104/Tones-The-Music-Player.git
-//github.com/your-username/tkinter-music-player.git
 
 * Navigate to the project directory
 
@@ -34,10 +33,13 @@ pip install -r requirements.txt
 python music_player.py
 ```
 A Tkinter GUI will appear. 
-![image](https://github.com/user-attachments/assets/604d6156-25d3-479a-8a51-3223621c47d1)
+
+<img src="https://github.com/user-attachments/assets/604d6156-25d3-479a-8a51-3223621c47d1" width="250" height="250">
 
 Use the "Upload Song" button to upload songs and manage them in the GUI.
-![image](https://github.com/user-attachments/assets/17eca39b-4748-4422-89a2-3840eb97bd35)
-![image](https://github.com/user-attachments/assets/6a8894df-9589-473c-96a7-7a6039312380)
+
+<img src="https://github.com/user-attachments/assets/17eca39b-4748-4422-89a2-3840eb97bd35" width="250" height="250">
+
+<img src="https://github.com/user-attachments/assets/6a8894df-9589-473c-96a7-7a6039312380" width="250" height="250">
 
 
