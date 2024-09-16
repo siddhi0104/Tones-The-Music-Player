@@ -18,8 +18,9 @@ To run this project in a local environment:
 * Open your terminal or Git Bash.
 * Change the current working directory to the location where you want the cloned directory.
 * Clone the repository:
+```
 $ git clone https://github.com/siddhi0104/Tones-The-Music-Player.git
-
+```
 * Navigate to the project directory
 
 ## How to Run the App:
