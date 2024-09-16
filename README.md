@@ -34,13 +34,14 @@ python music_player.py
 ```
 A Tkinter GUI will appear. 
 
-<img src="https://github.com/user-attachments/assets/604d6156-25d3-479a-8a51-3223621c47d1" width="350" height="350">
+<img src="https://github.com/user-attachments/assets/604d6156-25d3-479a-8a51-3223621c47d1" width="400" height="400">
 
 Use the "Upload Song" button to upload songs and manage them in the GUI.
 
-<img src="https://github.com/user-attachments/assets/17eca39b-4748-4422-89a2-3840eb97bd35" width="350" height="350">
+<img src="https://github.com/user-attachments/assets/17eca39b-4748-4422-89a2-3840eb97bd35" width="400" height="400">                                               
 
 
-<img src="https://github.com/user-attachments/assets/6a8894df-9589-473c-96a7-7a6039312380" width="350" height="350">
+
+<img src="https://github.com/user-attachments/assets/6a8894df-9589-473c-96a7-7a6039312380" width="400" height="400">
 
 
