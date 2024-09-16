@@ -38,7 +38,7 @@ A Tkinter GUI will appear.
 
 Use the "Upload Song" button to upload songs and manage them in the GUI.
 
-<img src="https://github.com/user-attachments/assets/17eca39b-4748-4422-89a2-3840eb97bd35" width="600" height="600">                                               
+<img src="https://github.com/user-attachments/assets/17eca39b-4748-4422-89a2-3840eb97bd35" width="700" height="600">                                               
 
                                                                                                                                                                     
 
